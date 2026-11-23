@@ -1,1 +1,0 @@
-Note de test depuis curl
