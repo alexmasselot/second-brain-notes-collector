@@ -1,0 +1,12 @@
+---
+captured_at: 2026-11-23T11263323 
+source: siri-shortcut
+---
+
+J'aimerais faire un message à Hugo Torchet et Mathieu Veien pour leur dire que pour leur proposer que dans le dans l'import de service Snowflake on a pas besoin de passer par du DBT que c'est en fait une sémantique player qui nettoie les données et les consommateurs c'est une bonne idée
+
+# Contexte
+Q: 1. « Import de service » : s'agit-il de l'import des données ServiceNow dans Snowflake, et dans quel projet ?
+2. Quelle couche sémantique proposes-tu (Semantic Views Snowflake / Cortex Analyst, autre outil), et qui la porterait ?
+R: Ouais vas-y comme ça pose le texte
+
